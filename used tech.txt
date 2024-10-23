@@ -1,0 +1,13 @@
+express: The web framework for Node.js.
+mysql: MySQL driver for Node.js as the DB.
+body-parser: Middleware to parse incoming request bodies.
+cors: Middleware to enable Cross-Origin Resource Sharing.
+bcrypt: For hashing passwords.
+jsonwebtoken: For generating JWTs for authentication.
+Axios & DOM
+POSTMAN To Test API
+CSS Tailwind
+Responsive for mobile version.
+
+To RUN SERVER BACKEND : node server/server.js
+Application server running AXIOS ON REQUESTS coming from port:5000
